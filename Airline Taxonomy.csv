@@ -1,0 +1,132 @@
+﻿ID,ParentID,Name,Description,Status,Added,Removed
+0000,,Airline Taxonomy,,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0064,0000,Flight,Any Product or Service related to a Flight,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+00C8,0064,Servicing,Any Product or Service related to Servicing of that Flight,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+012C,00C8,Change,Any Product or Service relating to Change Conditions,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0190,00C8,Refund,Any Product or Service relating to Refund Conditions,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+01F4,0064,Entertainment,Any Product or Service related to Entertainment on board a Flight,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0258,01F4,WI-FI,Any Product or Service which is transmitted through Wireless means,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+02BC,01F4,Television,Any Product or Service which is plays Video related Content,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0320,01F4,Games,Any Product or Service that relates to an activity engaged in for fun,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0384,01F4,Internet,Any Product or Service that provides access and content from the Word Wide Web,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+03E8,01F4,Power,Any Product or Service that charges Passenger Personal Devices,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+044C,0064,Meal,Any Product or Service which contains Food,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+04B0,044C,Breakfast,Any Product or Service which contains food and is generally eaten first thing in the day,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0514,044C,Lunch,Any Product or Service which contains food and is generally eaten mid-day,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0578,044C,Dinner,Any Product or Service which contains food and is generally eaten at the end of the day,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+05DC,044C,Snack,Any Product or Service which contains a small amount of food eaten between meals,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0640,0064,Beverage,Any Product or Service which is drinkable,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+06A4,0640,Alcoholic,Any Product or Service which is drinkable and contains Alcohol,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0708,0640,Non-Alcoholic,Any Product or Service which is drinkable without Alcohol,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+076C,0064,Medical Equipment,Any Product or Service which aids the health of a Passenger,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+07D0,076C,Oxygen,Any Product or Service which offers some assistance to a Passenger,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0834,076C,Stretcher,Any Product or Service which aids the breathing of a Passenger,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0898,076C,Wheelchair,Any Product or Service which transports a Passenger Lying down,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+08FC,076C,Incubator,Any Product or Service which transports a Passenger in a Controlled Environment,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0960,0064,Escort,Any Product or Service which accompanys a Passenger,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+09C4,0960,Minor,Any Product or Service which relates to accompanying an individual,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0A28,0960,Adults,Any Product or Service which relates to accompanying an minor,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0A8C,0960,Secured,Any Product or Service which relates to accompanying a Prisoner or security restricted individual,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0AF0,0960,Senior,Any Product or Service which relates to accompanying a Senior,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0B54,0960,Medical,Any Product or Service which relates to accompanying an individual for medical purposes,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0BB8,0960,VIP,Any Product or Service which relates to accompanying a VIP passenger,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0C1C,0960,Service Animal,Any Product or Service which relates to a Service Animal which will accompany a passenger,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0C80,0960,Emotional Support Animal,Any Product or Service which relates to an Emotional Service Animal which will accompany a passenger,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0CE4,0064,Loyalty,Any Product or Service relating to Passenger Loyalty,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0D48,0064,Upgrades,Any Product or Service relating to the upgrade of a Passengers selected Product,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0DAC,0064,Charity,Any Product or Service which voluntarily gives help to people or things in need,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0E10,0DAC,Environment,Any Product or Service which voluntarily gives help to the Enviornment,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0E74,0DAC,Humanitarian,Any Product or Service which voluntarily gives help to People,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0ED8,0064,Purchases,Any Product or Service which can be purchased on board,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0F3C,0ED8,Duty Free,Any Product or Service which can be purchased without duty,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+0FA0,0064,Cabin Baggage,Any Product or Service which allows for Standard Baggage in the Cabin,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1004,0FA0,Bag,Any Product or Service which denotes the same of a standard bag,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1068,0FA0,Car Seat,Any Product or Service which allows for a Car Seat within the Cabin,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+10CC,0FA0,Stroller,Any Product or Service which allows for a Stroller in the Cabin,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1130,0FA0,Cot,Any Product or Service which allows for a Cot in the Cabin,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1194,0FA0,Pet,Any Product or Service which allows a Pet in the Cabin,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+11F8,0FA0,Excess,Any Product or Service which allows Standard Excess Baggage in the Cabin,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+125C,0FA0,Human Remains,Any Product or Service which allows Human Remains in the Cabin,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+12C0,0FA0,Media Equipment,Any Product or Service which allows for Media Equipment in the Cabin,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1324,0FA0,Music Equipment,Any Product or Service which allows for Music Equipment to be transported,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1388,0FA0,Sports Equipment,Any Product or Service which allows Spots Equipment in the Cabin,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+13EC,0064,Checked Baggage,Any Product or Service which allows Standard Baggage to be Checked,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1450,13EC,Bag,Any Product or Service which denotes the same of a standard bag,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+14B4,13EC,Car Seat,Any Product or Service which allows for a Car Seat to be Checked,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1518,13EC,Stroller,Any Product or Service which allows for a Stroller to be Checked,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+157C,13EC,Cot,Any Product or Service which allows for a Cot to be Checked,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+15E0,13EC,Pet,Any Product or Service which allows a Pet to be Checked,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1644,13EC,Excess,Any Product or Service which allows Standard Excess Baggage to be Checked,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+16A8,13EC,Human Remains,Any Product or Service which allows Human Remains to be Checked,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+170C,13EC,Media Equipment,Any Product or Service which allows for Media Equipment to be Checked,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1770,13EC,Music Equipment,Any Product or Service which allows for Music Equipment to be transported,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+17D4,13EC,Sports Equipment,Any Product or Service which allows Spots Equipment to be Checked,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1838,0064,Seat,Any Product or Service associated to a Standard Seat,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+189C,1838,Preferred,Any Product or Service associated to a Preferred Seat,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1900,1838,Bassinet,Any Product or Service associated to a Bassinet,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1964,0064,Assistance,Any Product or Service associated to general Assistance being offered,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+19C8,1964,Minor,Any Product or Service associated to general Assistance being offered for Minors,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1A2C,1964,Adults,Any Product or Service associated to general Assistance being offered for Adults,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1A90,1964,Senior,Any Product or Service associated to general Assistance being offered for Seniors,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1AF4,0000,Airport,Any Product or Service related to an Airport,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1B58,1AF4,Lounge,Any Product or Service related to a Lounge,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1BBC,1B58,Amenities,Any Product or Service which is associated to a Lounge Amenity,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1C20,1BBC,Seating,Any Product or Service associted to Seating within a Lounge,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1C84,1BBC,Restrooms,Any Product or Service associted to Restrooms within a Lounge,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1CE8,1BBC,Shower,Any Product or Service associted to Shower within a Lounge,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1D4C,1BBC,Meal,Any Product or Service associted to Food within a Lounge,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1DB0,1BBC,Beverage,Any Product or Service associted to Beverages within a Lounge,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1E14,1BBC,Office,Any Product or Service associted to an Office Space within a Lounge,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1E78,1BBC,Internet,Any Product or Service associted to Internet Connectivity within a Lounge,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1EDC,1BBC,Sleeping,Any Product or Service associted to Sleeping within a Lounge,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1F40,1B58,Location,"Any Taxonomy which defines the location of the Lounge (for example, prior to Security or after)",Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+1FA4,1F40,Departure,Taxonomy to define that the Lounge is available prior to Departure,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2008,1F40,Arrival,Taxonomy to define that the Lounge is available after Arrival,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+206C,1AF4,Terminal,Any Product or Service related to a Terminal,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+20D0,206C,Amenities,Any Product or Service related to a Terminal Amenity,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2134,20D0,Shower,Any Product or Service associted to Shower within the Terminal,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2198,20D0,Food and Beverage,Any Product or Service associted to Food and Beverage within the Terminal,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+21FC,20D0,Sleeping,Any Product or Service associted to Sleeping within the Terminal,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2260,20D0,Shops,Any Product or Service associted to Shopping within the Terminal,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+22C4,20D0,Internet,Any Product or Service associted to granting access to the World Wide Web,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2328,1AF4,Check In,Any Product or Service associated to Check In,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+238C,2328,Priority,Any Product or Service associated to Priority Check In,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+23F0,2328,Manual,Any Product or Service associated to a Check in Desk,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2454,2328,Internet,"Any Product or Service associated to the passenger checking in online (mobile, website etc)",Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+24B8,2328,Automated,Any Product or Service associated to Automated Check In,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+251C,2328,Kiosk,Any Product or Service associated to Kiosk Check In,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2580,1AF4,Boarding,Any Product or Service associated to Boarding,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+25E4,2580,Priority,Any Product or Service associated to Priority Boarding,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2648,1AF4,Security,Any Product or Service associated to Security,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+26AC,2648,Priority,Any Product or Service associated to Priority Security,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2710,1AF4,Medical Equipment,Any Product or Service which aids the breathing of a Passenger,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2774,2710,Oxygen,Any Product or Service which transports a Passenger lying down,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+27D8,2710,Stretcher,Any Product or Service which transports a Passenger in a Seat,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+283C,2710,Wheelchair,Any Product or Service which transports a Passenger using a Wheelchair,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+28A0,2710,Incubator,Any Product or Service which transports a Passenger in a Controlled Environment,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2904,1AF4,Escort,Any Product or Service which transports a Passenger in a Controlled Environment,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2968,2904,Minor,Any Product or Service which relates to accompanying an individual,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+29CC,2904,Adults,Any Product or Service which relates to accompanying an minor,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2A30,2904,Secured,Any Product or Service which relates to accompanying a Prisoner or security restricted individual,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2A94,2904,Senior,Any Product or Service which relates to accompanying a Senior,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2AF8,2904,Medical,Any Product or Service which relates to accompanying an individual for medical purposes,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2B5C,2904,VIP,Any Product or Service which relates to accompanying a VIP passenger,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2BC0,2904,Service Animal,Any Product or Service which relates to a Service Animal which will accompany a passenger,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2C24,2904,Emotional Support Animal,Any Product or Service which relates to an Emotional Service Animal which will accompany a passenger,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2C88,0000,Ground,Any Product or Service relating to Ground Services outside the Airport,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2CEC,2C88,Transport,Any Product or Service relating to Transport Services outside the Airport,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2D50,2CEC,Car Hire,Any Product or Service relating to Car Hire,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2DB4,2CEC,Taxi,Any Product or Service relating to renting a Taxi,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2E18,2CEC,Ride Share,Any Product or Service relating to Ride Share Programs,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2E7C,2CEC,Train,Any Product or Service relating to transport by Rail,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2EE0,2CEC,Boat,Any Product or Service relating to transport by Boat,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2F44,2CEC,Cruise,Any Product or Service relating to transport by Cruise Liner,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+2FA8,2CEC,Bus,Any Product or Service relating to Bus or Coach,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+300C,2CEC,Tour,Any Product or Service relating to Tansport via a Tour,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+3070,2CEC,Limo,Any Product or Service relating to transport by Limosine,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+30D4,2C88,Parking,Any Product or Service relating to Parking offsite from the Airport,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+3138,2C88,Accommodation,Any Product or Service relating to Accomidation,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+319C,0000,Journey,"Any Product or Service not relating specifically to a flight, groung or airport service. For example holiday insurance.",Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+3200,319C,Insurance,"Any Product or Service relating to Insurance outside the context of just a flight, airport or ground",Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+3264,319C,Visa Services,Any Product or Service relating to Visa Services,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
+32C8,319C,Book and Hold,Any Product or Service relating to Book and Hold Services,Endorsed 01 October 2019,2019-10-01 00:00:00.000,NULL
